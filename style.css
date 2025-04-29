@@ -1,0 +1,22 @@
+  
+  h1, h2, h3, h4, h5, h6 ,.lead {
+    color: #023E8A;
+  }
+  
+  a {
+    color: #0077B6;
+  }
+  
+  a:hover {
+    color: #00B4D8;
+  }
+  
+  /* Navbar */
+  .navbar {
+    background-color: #023E8A;
+  }
+  
+  .navbar a {
+    color: white;
+  }
+  
